@@ -1,7 +1,7 @@
 # python-code-101
 My first python code for bioinformatics class.
 
-This was the first assignment in my bioinformatics class. A text file was given with a set of 3 different sequences. We were supposed to find out SNPs.
+This was the first assignment in my bioinformatics class (Population genetics). A text file was given with a set of 3 different sequences. We were supposed to find out SNPs. This course was taught by Prof Matt Hahn.
 
 # Warning
 
